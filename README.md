@@ -24,10 +24,10 @@
 - ML model optimization & deployment strategies  
 - Scalable data pipelines using Azure & Databricks
 
-### 🔧 Git & Version Control Training
-I’ve completed hands-on courses in Git and GitHub through **DataCamp**, focusing on practical skills for collaboration, code management, and CI/CD integration.
+### 📚 Current Learning & Certifications
+I’ve completed hands-on courses in Git and GitHub through DataCamp, focusing on practical skills for collaboration, code management, and CI/CD integration. I’m currently continuing my learning with SQL courses to strengthen my data querying and database management skills.
 
-📜 **Completed Course:**  
+📜 **Completed Course:**
 [Introduction to Git (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/443bba799765f9cf9cc5c2754b0aa96a2c8a4eba)
 
 ### 📫 How to reach me
