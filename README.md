@@ -12,7 +12,7 @@
   - **Applied Computer Vision**
   - **Data Visualization with Tableau & Python**
 - Exploring **Graph-based Retrieval-Augmented Generation (GraphRAG)** in medical QA systems  
-- Building side projects with **Databricks**, **AWS**, **Neo4j**, and **Power BI**
+- Building side projects with **Databricks**, **Azure**, **AWS**, and **Neo4j**
 
 ### 👩‍🏫 Experience
 - 💻 Teaching Assistant – *Cloud Computing & Data Engineering @ Duke University*
