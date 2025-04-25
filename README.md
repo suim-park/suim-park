@@ -28,7 +28,7 @@
 I’ve completed hands-on courses in Git and GitHub through DataCamp, focusing on practical skills for collaboration, code management, and CI/CD integration. I’m currently continuing my learning with SQL courses to strengthen my data querying and database management skills.
 
 📜 **Completed Course:**
-[Introduction to Git (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/443bba799765f9cf9cc5c2754b0aa96a2c8a4eba)
+[GitHub Foundation (DataCamp)](https://www.datacamp.com/completed/statement-of-accomplishment/track/b5aa231c6fa593b12e938d312f48dee95cd315d2)
 
 ### 📫 How to reach me
 - 📧 Email: suim.park825@gmail.com  
