@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Suim!
 
-🎓 I'm currently pursuing my Master's in Interdisciplinary Data Science at Duke University.  
-💡 My interests lie in **cloud computing**, **data engineering**, **machine learning**, and **AI for social good**.
+🎓 I recently completed my Master's in Interdisciplinary Data Science at Duke University.  
+💡 My interests lie in **human–computer interaction**, **emotion-adaptive interfaces**, and **machine learning systems** that support equitable and meaningful user experiences.
 
 ### 🌱 What I’m working on
 - Organizing my repositories by coursework and personal projects
